@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>228</width>
+    <height>140</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Battery</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="power_life">
+      <property name="text">
+       <string>Уровень заряда:</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="time_power">
+      <property name="text">
+       <string>Время до разрядки:</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="power_status">
+      <property name="text">
+       <string>Тип питания:</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="saving_power">
+      <property name="text">
+       <string>Режим энергосбережения:</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

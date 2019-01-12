@@ -1,0 +1,5 @@
+﻿  library.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\ntddscsi.h(719): warning C4091: typedef : пропускается слева от "_NV_SEP_WRITE_CACHE_TYPE", когда ни одна переменная не объявлена
+e:\проекты vs\vs 15\иипу\иипу\library.cpp(52): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ИиПУ.vcxproj -> E:\Проекты VS\VS 15\ИиПУ\Debug\ИиПУ.exe
+  ИиПУ.vcxproj -> E:\Проекты VS\VS 15\ИиПУ\Debug\ИиПУ.pdb (Partial PDB)

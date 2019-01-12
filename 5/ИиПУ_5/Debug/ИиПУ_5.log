@@ -1,0 +1,4 @@
+﻿  library.cpp
+e:\проекты vs\vs 15\иипу_5\иипу_5\library.cpp(29): warning C4244: =: преобразование "DWORD" в "WORD", возможна потеря данных
+  ИиПУ_5.vcxproj -> E:\Проекты VS\VS 15\ИиПУ_5\Debug\ИиПУ_5.exe
+  ИиПУ_5.vcxproj -> E:\Проекты VS\VS 15\ИиПУ_5\Debug\ИиПУ_5.pdb (Partial PDB)
